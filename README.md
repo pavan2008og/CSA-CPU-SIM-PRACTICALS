@@ -3,9 +3,9 @@
 Simulating Mano's **Basic Computer** in **CPU Sim 4.0.11** (Java 8 with JavaFX).
 All 11 practicals from the DSC02 / DSC03 / GE2c syllabus, Ramanujan College, University of Delhi.
 
-**Name:** _your name_
-**Roll No.:** _your roll number_
-**Course / Semester:** _your course and semester_
+**Name:** PAVAN MISHRA
+**Roll No.:** 26570044
+**Course / Semester:** Bsc. HONS. CS
 
 ---
 
