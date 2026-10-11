@@ -1,0 +1,2 @@
+# CSA-CPU-SIM-PRACTICALS
+CSA practicals using CPU SIM
